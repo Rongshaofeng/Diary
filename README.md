@@ -15,6 +15,6 @@
 
 >* 2020.6.15:
 >   * ~~看了动漫《格莱普尼尔》最新一集~~
->   *
->   *
+>   * 墨墨背单词快速复习200个，英语也不能落下哦
+>   * 看[《利用python进行数据分析》第五章](https://github.com/apachecn/pyda-2e-zh/blob/master/5.md)，pandas入门
 
